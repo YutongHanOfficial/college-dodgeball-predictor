@@ -539,12 +539,12 @@ else:
     
     # Safely find default indices for dodgeball powerhouses
     try:
-        gb_idx = all_teams.index("Grand Valley State")
+        gb_idx = all_teams.index("Michigan State")
     except ValueError:
         gb_idx = 0
         
     try:
-        dav_idx = all_teams.index("Michigan State")
+        dav_idx = all_teams.index("Ohio State")
     except ValueError:
         dav_idx = 1 if len(all_teams) > 1 else 0
 
