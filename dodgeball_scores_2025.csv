@@ -1,0 +1,229 @@
+date,team1,team2,score1,score2
+2025-09-20,Ohio State,Cleveland State,6,2
+2025-09-20,Akron,Bowling Green,5,1
+2025-09-20,Kent State,Cleveland State,7,2
+2025-09-20,Ohio State,Bowling Green,6,1
+2025-09-20,Ohio State,Akron,4,3
+2025-09-20,Kent State,Akron,5,0
+2025-09-20,Cleveland State,Bowling Green,5,0
+2025-09-20,Ohio State,Kent State,3,2
+2025-09-20,Michigan State,Grand Valley State,4,3
+2025-09-20,James Madison,Maryland,3,2
+2025-09-20,Virginia,Maryland,3,1
+2025-09-20,James Madison,Virginia,5,1
+2025-09-27,Ohio State,Northern Kentucky,8,0
+2025-09-27,Ohio,Bowling Green,3,2
+2025-09-27,Miami,Ohio,2,1
+2025-09-27,Cincinnati,Bowling Green,4,2
+2025-09-27,Cincinnati,Ohio State,3,2
+2025-09-27,Miami,Northern Kentucky,3,2
+2025-09-27,Bowling Green,Northern Kentucky,7,0
+2025-09-27,Ohio,Ohio State,3,2
+2025-09-27,Miami,Cincinnati,3,1
+2025-09-27,North Georgia,Georgia Southern,8,3
+2025-09-27,Alabama,Georgia Southern,1,0
+2025-09-27,North Georgia,Alabama,6,0
+2025-10-11,Nebraska,Wisconsin Platteville,4,3
+2025-10-11,Nebraska,Wisconsin Platteville,6,1
+2025-10-14,Michigan State,Central Michigan,7,0
+2025-10-14,Michigan State,Central Michigan,6,1
+2025-10-18,Cincinnati,Illinois,8,1
+2025-10-18,Miami,Ohio,4,0
+2025-10-18,Miami,Cincinnati,4,3
+2025-10-18,Ohio,Illinois,8,0
+2025-10-18,Cincinnati,Ohio,3,2
+2025-10-18,Miami,Illinois,4,1
+2025-10-25,Ohio State,Kent State,6,1
+2025-10-25,Bowling Green,Maryland,5,4
+2025-10-25,Akron,Maryland,5,3
+2025-10-25,Northern Kentucky,Akron-B,6,0
+2025-10-25,Grand Valley State,Kent State,6,1
+2025-10-25,Bowling Green,Northern Kentucky,6,1
+2025-10-25,Ohio State,Akron,4,1
+2025-10-25,Kent State,Maryland,5,1
+2025-10-25,Bowling Green,Akron-B,5,0
+2025-10-25,Grand Valley State,Akron,3,2
+2025-10-25,Kent State,Akron-B,6,0
+2025-10-25,Grand Valley State,Ohio State,3,2
+2025-10-25,Northern Kentucky,Akron,3,2
+2025-11-08,James Madison,Ohio,3,2
+2025-11-08,Miami,Akron,3,2
+2025-11-08,Grand Valley State,Bowling Green,5,4
+2025-11-08,Ohio State,Cincinnati,3,2
+2025-11-08,Kent State,Miami,7,0
+2025-11-08,Cleveland State,Akron,6,5
+2025-11-08,Grand Valley State,Ohio,4,1
+2025-11-08,James Madison,Bowling Green,5,1
+2025-11-08,Cincinnati,Cleveland State,4,3
+2025-11-08,Miami,Grand Valley State,2,1
+2025-11-08,Ohio State,James Madison,4,1
+2025-11-08,Kent State,Bowling Green,6,2
+2025-11-08,Kent State,Cincinnati,5,2
+2025-11-08,Akron,Ohio,3,2
+2025-11-08,Ohio State,Cleveland State,7,0
+2025-11-08,Nebraska,Wisconsin Platteville,3,1
+2025-11-08,Nebraska,Illinois,3,2
+2025-11-08,Illinois,Wisconsin Platteville,3,2
+2025-11-08,Illinois,Wisconsin Stout,5,0
+2025-11-08,Nebraska,Wisconsin Stout,8,0
+2025-11-08,Wisconsin Platteville-B,Wisconsin Stout,3,1
+2025-11-15,Virginia,James Madison,3,2
+2025-11-15,James Madison,Maryland,4,2
+2025-11-15,Virginia,Maryland,4,1
+2025-11-16,Grand Valley State,Central Michigan,5,0
+2025-11-16,Michigan State,Grand Valley State,6,0
+2025-11-16,Michigan State,Central Michigan,7,0
+2025-11-16,Northern Kentucky,Alabama,5,2
+2025-11-16,Northern Kentucky,North Georgia,4,2
+2025-11-16,Alabama,Georgia Southern,1,0
+2025-11-16,North Georgia,Alabama,5,0
+2025-11-16,North Georgia,Georgia Southern,1,0
+2025-11-22,Wisconsin Stout,Wisconsin Eau Claire,8,1
+2025-11-22,Wisconsin Stout,Wisconsin Eau Claire,7,1
+2025-11-23,Cleveland State,Central Michigan,6,1
+2025-11-23,Grand Valley State,Western Michigan,6,0
+2025-11-23,Michigan State,Wisconsin Platteville,11,0
+2025-11-23,Akron,Cleveland State,4,2
+2025-11-23,Central Michigan,Western Michigan,5,1
+2025-11-23,Grand Valley State,Wisconsin Platteville,6,1
+2025-11-23,Michigan State,Akron,8,0
+2025-11-23,Cleveland State,Western Michigan,6,2
+2025-11-23,Michigan State,Central Michigan,8,1
+2025-11-23,Grand Valley State,Cleveland State,4,3
+2025-11-23,Akron,Wisconsin Platteville,6,2
+2025-12-06,Wisconsin Platteville,Iowa,6,0
+2025-12-06,Nebraska,Iowa,9,0
+2025-12-06,Nebraska,Wisconsin Platteville,4,3
+2025-01-31,Cincinnati,Maryland,1,0
+2025-01-31,Ohio,Maryland,1,0
+2025-01-31,James Madison,Unknown,1,0
+2025-01-31,Virginia,Unknown2,1,0
+2025-01-31,Ohio,James Madison,3,0
+2025-01-31,Cincinnati,Virginia,4,3
+2025-01-31,Cincinnati,James Madison,4,3
+2025-01-31,Ohio,Virginia,4,2
+2025-01-31,Michigan State,Kent State,4,2
+2025-01-31,Michigan State,Kent State,4,3
+2025-02-14,Unknown3,Illinois,1,0
+2025-02-14,Unknown4,Illinois,1,0
+2025-02-14,Unknown5,Illinois,1,0
+2025-02-14,Miami,Bowling Green,3,2
+2025-02-14,Ohio State,Akron,6,1
+2025-02-14,Ohio State,Miami,5,0
+2025-02-14,Akron,Alabama,7,1
+2025-02-14,Miami,Alabama,5,1
+2025-02-14,Ohio State,Bowling Green,4,3
+2025-02-14,Akron,Bowling Green,4,3
+2025-02-14,Ohio State,Alabama,5,2
+2026-02-21,Michigan State,Central Michigan,8,0
+2026-02-21,Grand Valley State,Western Michigan,11,0
+2026-02-21,Grand Valley State,Central Michigan,7,0
+2026-02-21,Michigan State,Western Michigan,8,0
+2026-02-21,Central Michigan,Western Michigan,7,1
+2026-02-21,Michigan State,Grand Valley State,2,1
+2026-02-21,James Madison,Maryland,5,1
+2026-02-21,Virginia,Maryland,6,0
+2026-02-21,Virginia,James Madison,3,1
+2026-02-21,Alabama,Georgia Southern,1,0
+2026-02-21,North Georgia,Alabama,6,1
+2026-02-21,Northern Kentucky,Georgia Southern,1,0
+2026-02-21,Northern Kentucky,Alabama,5,2
+2026-02-21,North Georgia,Georgia Southern,1,0
+2026-02-21,Northern Kentucky,North Georgia,4,3
+2026-02-21,Nebraska,Illinois,5,1
+2026-02-21,Nebraska,Wisconsin Platteville,5,1
+2026-02-21,Illinois,Iowa,8,0
+2026-02-21,Nebraska,Iowa,9,0
+2026-02-21,Illinois,Wisconsin Platteville,3,2
+2026-02-28,Grand Valley State,Central Michigan,1,0
+2026-02-28,Cleveland State,Miami,4,2
+2026-02-28,Cincinnati,Akron,5,2
+2026-02-28,Kent State,Ohio,5,1
+2026-02-28,Ohio State,Bowling Green,6,0
+2026-02-28,Miami,Akron,5,2
+2026-02-28,Ohio State,Kent State,4,3
+2026-02-28,Cincinnati,Cleveland State,5,2
+2026-02-28,Ohio,Bowling Green,5,0
+2026-02-28,Kent State,Cleveland State,6,1
+2026-02-28,Miami,Ohio,3,1
+2026-02-28,Akron,Bowling Green,5,4
+2026-02-28,Ohio State,Cincinnati,5,0
+2026-03-07,James Madison,Akron,4,3
+2026-03-07,Kent State,James Madison,3,2
+2026-03-07,Kent State,Akron,4,1
+2026-03-07,James Madison,Akron,3,1
+2026-03-07,Wisconsin Platteville,Illinois,3,2
+2026-03-07,Illinois,Iowa,8,1
+2026-03-07,Nebraska,Iowa,8,1
+2026-03-07,Nebraska,Wisconsin Platteville,6,0
+2026-03-07,Wisconsin Platteville,Iowa,9,0
+2026-03-07,Nebraska,Illinois,6,0
+2026-03-22,Michigan State,Ohio,6,2
+2026-03-22,Grand Valley State,Wisconsin Platteville,9,0
+2026-03-22,Bowling Green,Central Michigan,5,1
+2026-03-22,Kent State,Grand Valley State,4,2
+2026-03-22,Cincinnati,Central Michigan,6,1
+2026-03-22,Cleveland State,Northern Kentucky,5,1
+2026-03-22,Ohio,Cleveland State,4,2
+2026-03-22,Kent State,Wisconsin Platteville,5,0
+2026-03-22,Bowling Green,Northern Kentucky,5,1
+2026-03-22,Michigan State,Cincinnati,4,2
+2026-03-22,Ohio,Central Michigan,8,1
+2026-03-22,Bowling Green,Wisconsin Platteville,6,1
+2026-03-22,Grand Valley State,Cincinnati,4,0
+2026-03-22,Michigan State,Cleveland State,9,0
+2026-03-22,Kent State,Northern Kentucky,7,0
+2026-03-28,Wisconsin Platteville,Wisconsin Eau Claire,7,0
+2026-04-04,Miami,Northern Kentucky,4,0
+2026-04-04,Virginia,North Georgia,3,0
+2026-04-04,North Georgia,Georgia Southern,8,1
+2026-04-04,Virginia,Georgia Southern,8,1
+2026-04-04,Virginia,North Georgia,5,0
+2026-04-18,Virginia,Nebraska,4,1
+2026-04-18,Cleveland State,James Madison,4,3
+2026-04-18,Maryland,Northern Kentucky,5,1
+2026-04-18,Bowling Green,North Georgia,5,3
+2026-04-18,Grand Valley State,Wisconsin Platteville,7,0
+2026-04-18,Kent State,Cincinnati,4,3
+2026-04-18,Miami,North Georgia,5,2
+2026-04-18,Ohio,Western Michigan,12,0
+2026-04-18,Michigan State,Maryland,7,1
+2026-04-18,Ohio State,Akron,4,2
+2026-04-18,Grand Valley State,Maryland,3,1
+2026-04-18,Bowling Green,Illinois,5,1
+2026-04-18,Michigan State,Nebraska,6,1
+2026-04-18,Central Michigan,Wisconsin Platteville,4,3
+2026-04-18,Ohio State,Northern Kentucky,6,0
+2026-04-18,Ohio,Cincinnati,4,2
+2026-04-18,Virginia,Cleveland State,4,2
+2026-04-18,Nebraska,Western Michigan,10,0
+2026-04-18,Akron,Northern Kentucky,7,0
+2026-04-18,James Madison,Central Michigan,6,1
+2026-04-18,James Madison,Grand Valley State,4,0
+2026-04-18,Virginia,Wisconsin Platteville,4,1
+2026-04-18,Kent State,Illinois,5,1
+2026-04-18,Maryland,Western Michigan,8,3
+2026-04-18,Cleveland State,North Georgia,6,2
+2026-04-18,Michigan State,Ohio State,4,2
+2026-04-18,Kent State,Ohio,4,2
+2026-04-18,Akron,Illinois,5,2
+2026-04-18,Cincinnati,Central Michigan,6,3
+2026-04-18,Miami,Bowling Green,4,2
+2026-04-19,Michigan State,Maryland,5,0
+2026-04-19,Ohio,James Madison,3,1
+2026-04-19,Cincinnati,Nebraska,6,4
+2026-04-19,Virginia,Akron,4,2
+2026-04-19,Kent State,North Georgia,9,0
+2026-04-19,Miami,Cleveland State,3,1
+2026-04-19,Grand Valley State,Bowling Green,5,2
+2026-04-19,Ohio State,Northern Kentucky,5,1
+2026-04-19,Illinois,Western Michigan,7,1
+2026-04-19,Wisconsin Platteville,Central Michigan,5,1
+2026-04-19,Wisconsin Platteville,Illinois,5,4
+2026-04-19,Michigan State,Ohio,5,0
+2026-04-19,Ohio State,Cincinnati,2,1
+2026-04-19,Kent State,Virginia,2,1
+2026-04-19,Grand Valley State,Maryland,2,1
+2026-04-19,Ohio State,Kent State,4,1
+2026-04-19,Michigan State,Grand Valley State,4,1
+2026-04-19,Michigan State,Ohio State,4,2
