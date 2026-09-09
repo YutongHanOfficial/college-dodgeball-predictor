@@ -555,7 +555,7 @@ else:
         col_a, col_b = st.columns(2)
         
         with col_a:
-            st.markdown("### ✈️ Team 1 (Away)")
+            st.markdown("### Team 1")
             away = st.selectbox("Away Team Select", all_teams, index=gb_idx, label_visibility="collapsed")
             if away:
                 a_stats = predictor.basic_stats.get(away, {"W":0, "L":0, "PF":0, "PA":0, "GP":0})
@@ -567,7 +567,7 @@ else:
                 st.caption(f"📊 **Record:** {a_stats['W']}-{a_stats['L']} | 🟢 **PPG:** {a_stats['PF']/a_gp:.1f} | 🔴 **PA/G:** {a_stats['PA']/a_gp:.1f}")
 
         with col_b:
-            st.markdown("### 🏠 Team 2 (Home/Neutral)")
+            st.markdown("### Team 2")
             home = st.selectbox("Home Team Select", all_teams, index=dav_idx, label_visibility="collapsed")
             if home:
                 h_stats = predictor.basic_stats.get(home, {"W":0, "L":0, "PF":0, "PA":0, "GP":0})
