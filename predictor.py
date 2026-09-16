@@ -66,7 +66,6 @@ class SeasonPredictor:
 
     def _load_and_dedupe_csv(self, filename):
         games = []
-        unique_games = set()
         
         if not filename or not os.path.exists(filename):
             return games
@@ -82,13 +81,6 @@ class SeasonPredictor:
                     hs_raw = row.get("score1", row.get("home_score", "")).strip()
                     as_raw = row.get("score2", row.get("away_score", "")).strip()
                     
-                    team_a, team_b = sorted([home, away])
-                    game_signature = (date, team_a, team_b)
-                    
-                    if game_signature in unique_games:
-                        continue
-                    unique_games.add(game_signature)
-
                     if hs_raw != "" and as_raw != "":
                         hs = int(hs_raw)
                         as_ = int(as_raw)
